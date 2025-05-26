@@ -1,7 +1,7 @@
 import About from "./Components/About/About"
 import Contact from "./Components/Contact/Contact"
 import Heroo from "./Components/Heroo/Heroo"
-import Navbar from "./components/navbar/navbar"
+import Navbar from "./components/Navbar/Navbar"
 import Projects from "./Components/Projects/Projects"
 const App = () => {
   return (
