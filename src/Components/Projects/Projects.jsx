@@ -7,12 +7,12 @@ const Projects = () => {
                 <div className="project-card">
                     <h3>Portfolio Website</h3>
                     <p>A personal portfolio website built using React to showcase my skills, education, and projects.</p>
-                    <a href="https://your-portfolio-link.com" target="_blank" rel="noopener noreferrer">View Project</a>
+                    <a href="https://github.com/KrishnaManikantaUngarala/Portfolio-My" target="_blank" rel="noopener noreferrer">View Project</a>
                 </div>
                 <div className="project-card">
                     <h3>Task Manager(Todo List)</h3>
                     <p>A full-stack task management app where users can add, edit, and delete tasks. Built using React.js for the frontend and PostgreSQL for data storage.</p>
-                    <a href="https://github.com/KrishnaManikantaUngarala/todo-next-pro" target="_blank" rel="noopener noreferrer">View Project</a>
+                    <a href="https://github.com/KrishnaManikantaUngarala/todo-next-proj" target="_blank" rel="noopener noreferrer">View Project</a>
                 </div>
                 <div className="project-card">
                     <h3>Brain Tumor Detection using CNN</h3>
